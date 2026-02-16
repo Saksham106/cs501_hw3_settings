@@ -14,7 +14,8 @@ This app shows a single polished Settings screen built with Jetpack Compose.
 - Modifiers demonstrated: padding, fillMaxWidth, weight, heightIn, align, background, clickable.
 
 ## Screenshot
-- Settings screen: ![Settings](screenshots/settings-ss.png)
+- Settings screen: \
+<img src="screenshots/settings-ss.png" width="300">
 
 ## AI disclosure
 - AI was used to help write this README, to better understand assignment instructions, to make sure all requirements were met, and for some debugging.
